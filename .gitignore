@@ -5,12 +5,14 @@ rclone-config/**
 backups/**
 
 # Dados/volumes
-mosquitto/data/**
-mosquitto/log/**
-mysql-data1/**
-mysql-data2/**
-node-red-data1/**
-node-red-data2/**
+mysql-data1/
+mysql-data2/
+mosquitto/data/
+mosquitto/log/
+node-red-data1/
+node-red-data2/
+backups/
+rclone-config/
 
 # Python
 __pycache__/**
